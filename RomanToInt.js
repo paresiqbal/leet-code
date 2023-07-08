@@ -13,7 +13,7 @@ let romantToInt = function (s) {
 
   value = 0;
 
-  for (let i = 0; i < s.length - 1; i += 1) {
+  for (let i = 0; i < s.length - 1; i++) {
     symbols[s[i]] < symbols[s[i + 1]]
       ? (value -= symbols[s[i]])
       : (value += symbols[s[i]]);
