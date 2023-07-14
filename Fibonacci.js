@@ -8,6 +8,8 @@ for (let i = 0; i <= 10; i++) {
   } else {
     let total = number1 + number2;
     fibonancci = [...fibonancci, total];
+
+    // setelah di jumblahkan ubah nilai 1 menjadi nilai 2 kemudian di looping kembali
     number1 = number2;
     number2 = total;
   }
