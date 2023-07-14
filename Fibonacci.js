@@ -14,3 +14,6 @@ for (let i = 0; i <= 10; i++) {
 }
 
 console.log(fibonancci);
+
+// Menjumbhlahkan angka sebelum nya dengan angka selanjutnya
+// 0 + 1 = 1 Kemudian 1 + 1 = 2 kemudian 2 + 1 = 3 kemudian 3 + 2 = 5 kemudian 5 + 3 = 8 dan seterusnya
