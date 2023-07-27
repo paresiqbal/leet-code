@@ -1,4 +1,4 @@
-// Check for the value of roman number
+// Check for the value of roman numbe
 
 s = "XV";
 
